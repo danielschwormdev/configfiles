@@ -1,0 +1,47 @@
+{
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "files.autoSave": "onFocusChange",
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+  "workbench.colorTheme": "One Dark Pro",
+  "terminal.integrated.cursorStyle": "line",
+  "workbench.editor.revealIfOpen": true,
+  "editor.cursorBlinking": "solid",
+  "zenMode.hideTabs": false,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "boundary",
+  "files.trimTrailingWhitespace": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "[css]": {
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  },
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "java.configuration.checkProjectSettingsExclusions": false,
+  "terminal.external.osxExec": "iTerm2.app",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "window.zoomLevel": 0,
+  "terminal.explorerKind": "external",
+  "terminal.external.linuxExec": "iTerm2.app",
+  "explorer.confirmDragAndDrop": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontFamily": "Dank Mono, Operator Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 18,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "terminal.integrated.fontSize": 14,
+  "workbench.editor.tabSizing": "shrink",
+  "latex-workshop.view.pdf.viewer": "tab"
+}
